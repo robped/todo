@@ -1,2 +1,2 @@
 # TODO
-Web Application to build your daily todo list.
+Web Application that helps you with your daily todo list.
